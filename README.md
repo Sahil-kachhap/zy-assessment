@@ -8,7 +8,12 @@ Mobile App where user can register as employee and view other employees on anoth
 ## Employee List Screen
 ![WhatsApp Image 2023-01-08 at 11 48 14 PM](https://user-images.githubusercontent.com/54017876/211212316-d4503f55-525e-4929-94eb-59c2e6f2b9e9.jpeg)
 
-## Tech Stack: Flutter, Dart, BLOC (state management)
+## Firestore Database
+![firebase](https://user-images.githubusercontent.com/54017876/211212538-691258ca-a50f-4dbb-b39b-4baa58d4ee91.png)
+
+
+
+## Tech Stack: Flutter, Dart, BLOC (state management), Firebase (as backend)
 
 
 ## Getting Started
