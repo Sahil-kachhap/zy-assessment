@@ -1,6 +1,15 @@
-# zylu_app
+# employee_app
 
-A new Flutter project.
+Mobile App where user can register as employee and view other employees on another screen. On the employee list screen, employees working for more than 5 years have been flagged with green color.
+
+## Register Screen
+![WhatsApp Image 2023-01-08 at 11 48 15 PM](https://user-images.githubusercontent.com/54017876/211212337-9b60e19b-9aab-4943-abed-c1ff6e12d291.jpeg)
+
+## Employee List Screen
+![WhatsApp Image 2023-01-08 at 11 48 14 PM](https://user-images.githubusercontent.com/54017876/211212316-d4503f55-525e-4929-94eb-59c2e6f2b9e9.jpeg)
+
+## Tech Stack: Flutter, Dart, BLOC (state management)
+
 
 ## Getting Started
 
